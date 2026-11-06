@@ -7,7 +7,7 @@ MCP server that connects an agent to the internal support tools of **Northline G
 > [!NOTE]
 > Northline Goods is fictional. This repository does not talk to a real help desk.
 
-**Maintainer:** [Mina Elzek](https://github.com/minaelzek) · **Built:** November 2026
+**Maintainer:** [Mina Elzek](https://github.com/minaelzek) · **Built:** January 2026
 
 ## About
 
