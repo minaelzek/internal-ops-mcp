@@ -1,0 +1,65 @@
+[
+  {
+    "id": "TCK-1001",
+    "title": "Duplicate charge on the March invoice",
+    "description": "A customer was charged twice for invoice INV-2041. They want one of the charges reversed.",
+    "priority": "high",
+    "status": "open",
+    "requester": "priya@northline.example",
+    "last_note": "Asked billing to compare INV-2041 with the card statement."
+  },
+  {
+    "id": "TCK-1002",
+    "title": "Password reset link expires immediately",
+    "description": "The account owner requests a reset and the link is already invalid when they open it.",
+    "priority": "medium",
+    "status": "open",
+    "requester": "jonas@northline.example",
+    "last_note": "Waiting on the customer to request a fresh reset link."
+  },
+  {
+    "id": "TCK-1003",
+    "title": "Parcel scanned delivered but not received",
+    "description": "Tracking NL44921 shows delivered. The customer says the parcel was not at the door.",
+    "priority": "critical",
+    "status": "open",
+    "requester": "lena@northline.example",
+    "last_note": "Carrier trace opened for tracking number NL44921."
+  },
+  {
+    "id": "TCK-1004",
+    "title": "Change the delivery address before pickup",
+    "description": "Order NL-8831 is still at the warehouse. The customer moved and needs a new address.",
+    "priority": "low",
+    "status": "open",
+    "requester": "omar@northline.example",
+    "last_note": "Warehouse confirmed the order has not been scanned out."
+  },
+  {
+    "id": "TCK-1005",
+    "title": "Refund posted to a closed card",
+    "description": "A billing refund went back to a card the customer no longer has.",
+    "priority": "medium",
+    "status": "resolved",
+    "requester": "sofia@northline.example",
+    "last_note": "Refund was reissued to the replacement card on April 2."
+  },
+  {
+    "id": "TCK-1006",
+    "title": "Account closure finished",
+    "description": "The customer asked to close the account after downloading their invoices.",
+    "priority": "low",
+    "status": "resolved",
+    "requester": "noah@northline.example",
+    "last_note": "Data export sent and login disabled."
+  },
+  {
+    "id": "TCK-1007",
+    "title": "Waiting on the customer for an invoice number",
+    "description": "Billing cannot match an extra line item until the customer names the invoice.",
+    "priority": "high",
+    "status": "pending",
+    "requester": "amira@northline.example",
+    "last_note": "Asked which invoice shows the extra line."
+  }
+]
